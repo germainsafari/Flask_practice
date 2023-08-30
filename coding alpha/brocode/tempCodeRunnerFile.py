@@ -1,0 +1,1 @@
+LL1.add_beginning(10)
